@@ -50,3 +50,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+lista 1/a/a.cbp
+*.cbp
+*.layout

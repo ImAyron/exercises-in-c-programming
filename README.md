@@ -1,2 +1,2 @@
 # exercises-in-c-programming
- Exercicios do curso de Programação de computadores primeiro periodo.
+ Lista de Programação de computadores, primeiro periodo engenharia de computação.
